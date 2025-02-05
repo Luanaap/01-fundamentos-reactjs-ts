@@ -7,7 +7,7 @@ Este projeto é um feed interativo desenvolvido em React com TypeScript e Vite. 
 - React
 - TypeScript
 - Vite
-- CSS Modules
+- Tailwindcss
 
 ## 📦 Como Executar o Projeto
 
