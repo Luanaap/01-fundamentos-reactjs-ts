@@ -2,6 +2,7 @@
 
 Este projeto é um feed interativo desenvolvido em React com TypeScript e Vite. Ele permite que os usuários publiquem postagens, interajam por meio de comentários e curtidas, além de personalizarem seus perfis.
 
+![512045577541df683c8e2c4691fa30d4](https://github.com/user-attachments/assets/f20aaa46-0931-4823-a44f-f341ab8939bc)
 
 ## 🚀 Tecnologias Utilizadas
 - React
